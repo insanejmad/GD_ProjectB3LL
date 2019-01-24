@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/project_b3ll.unity
+  isLoaded: 1
+  isActive: 1
